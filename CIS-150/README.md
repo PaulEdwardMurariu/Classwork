@@ -18,7 +18,7 @@ This lab introduced the fundamentals of programming, including:
 
 ## Deliverables
 - **Final Submission (PDF):**  
-  [CIS-150_Lab-01_Murariu-Paul_2021-02-03.pdf](./CIS-150_Lab-01_Murariu-Paul_2021-02-03.pdf)
+  [CIS-150_Lab-01_Murariu-Paul_2021-02-03.pdf]
 
 ---
 
